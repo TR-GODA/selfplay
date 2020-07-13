@@ -1,0 +1,29 @@
+# restoran rezervasyonu
+    mutfak*
+    yer*
+    kişi sayısı*
+    gün*
+    saat*
+    fiyat
+    telefon_no+
+    puan+
+
+# book_restaurant
+    cuisine*
+    food
+    location
+    range
+    restaurant_name
+    person_number
+    date*
+    time*
+
+# book_movie
+    theater_name
+    movie_name
+    location
+    range
+    person_number
+    language
+    date
+    time

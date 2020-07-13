@@ -1,0 +1,36 @@
+[
+    {
+        "language": "tr",
+        "intent": "amaç",
+        "greet": "selam ver",
+        "inform": "bilgilendir",
+        "choose": "seç",
+        "ask_alternative": "alternatif sor",
+        "ask": "iste",
+        "bye": "veda et",
+        "refuse": "reddet",
+        "ask_for_repeat": "tekrar sor",
+        "change": "değiştir",
+        "anyway": "fark etmez",
+        "offer": "teklif et",
+        "failure": "işlem başarısız",
+        "success": "onaylandı"
+    },
+    {
+        "language": "en",
+        "intent": "intent",
+        "greet": "greetings",
+        "inform": "inform",
+        "choose": "choose",
+        "ask_alternative": "ask for alternatives",
+        "ask": "ask",
+        "bye": "bye",
+        "refuse": "refuse",
+        "ask_for_repeat": "ask for repeat",
+        "change": "change",
+        "anyway": "doesn't matter",
+        "offer": "offer",
+        "failure": "process fails",
+        "success": "confirm"
+    }
+]
